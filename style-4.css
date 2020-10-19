@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #7579e7;
+}
+
+button{
+    font-family: inherit;
+    font-size: 1.5em !important;
+}
+
+label{
+    margin: 10px;
+}
+
+/* cadastre-se */
+
+.cadastre-se{
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 30px 30px 20px 30px;
+    color: #7579e7;
+    transition: 0.1s;
+}
+
+.content-3{
+    height: 100vh;
+    padding-top: 250px;
+}
+
+.img-2{
+    transition: 0.1s;
+}
+
+.voltar a{
+    font-family: inherit;
+    font-size: 1em;
+    font-weight: unset;
+    color: #7579e7;
+}
+    /* fontes */
+    .content-3 > div > div > h2{
+        font-family: inherit;
+        font-size: 3em;
+        line-height: 50px;
+        padding-bottom: 20px;
+    }
+
+    .content-3 > div > div > p{
+        margin-bottom: 150px;
+        font-family: inherit;
+        font-size: 1.5em;
+        font-weight: unset;
+    }
+
+    .content-3 > div > div > button{
+        margin-bottom: 50px;
+        font-family: inherit;
+        font-size: 1.5em;
+        font-weight: unset;
+    }
+
+    /* end fontes */
+
+    /* button */
+
+    .btn-avancar{
+        background-color: #7579e7;
+        border: none;
+        color: #fff;
+        padding-bottom: 10px;
+        transition: 0.5s;
+    }
+
+    .btn-avancar:hover{
+        background-color: #5d54a4;
+    }
+    /* end button */
+
+    /* label */
+    .label{
+        line-height: 50px;
+    }
+    /* end label */
+
+
+/* end cadastre-se */

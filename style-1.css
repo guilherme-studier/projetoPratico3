@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #7579e7;
+}
+
+h2{
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    font-size: 5em;
+}
+
+p{
+    font-family: inherit;
+    font-size: 2em;
+}
+
+button{
+    font-family: inherit;
+    font-size: 1.5em !important;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    font-family: inherit;
+}
+
+/* content */
+
+.content{
+    height: 100vh;
+    color: white;
+    padding-top: 300px;
+}
+
+.text-special{
+    line-height: 50px;
+}
+
+/* //////// */

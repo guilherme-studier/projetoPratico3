@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+.content-perfil-profissional{
+    background-color: #fff;
+    border-radius: 0 0 15px 15px;
+    border: 1px solid #7579e7;
+    border-top: none;
+    padding: -10px 20px 50px 20px;
+    margin-bottom: 10px;
+}
+
+/* header */
+    .head{
+    padding: 50px 0;
+    background-attachment: fixed;
+    background-color: #7579e7;
+    background-position: bottom;
+    position: relative;
+    text-align: center;
+    }
+
+    .logo{
+        font-family: 'Poiret One', cursive;
+        font-weight: bold;
+        font-size: 5em;
+        color: #fff;
+    }
+
+/* end header */
+/* content */
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: -20px;
+}
+/* END content */
+
+
+/* fontes */
+.content-perfil-profissional h2, label{
+    color: #7579e7;
+}
+
+.content-perfil-profissional label{
+    font-size: 1.5em;
+    margin-top: 1em;
+}
+
+/* end fontes */
+/* ul li */
+
+ul, li{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+li{
+    font-size: 1.5rem;
+    font-weight: initial;
+}
+
+
